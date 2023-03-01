@@ -1,0 +1,5 @@
+MIT License (Modified)
+
+El presente proyecto y todo el contenido incluido, incluyendo el código fuente, la documentación y cualquier otro material asociado (en adelante, el "Software"), sólo puede ser utilizado por los miembros del grupo especificado por el autor del Software. Queda prohibido el uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, así como cualquier uso comercial sin autorización explícita del autor del Software.
+
+El Software se proporciona "tal cual", sin garantía de ningún tipo, expresa o implícita, incluyendo, pero no limitado a, garantías de comerciabilidad, adecuación para un propósito particular y no infracción. En ningún caso los autores o los titulares de los derechos de autor serán responsables de cualquier reclamo, daño u otra responsabilidad, ya sea en una acción contractual, extracontractual o de otro tipo, que surja de, fuera de o en conexión con el software o el uso u otros tratos en el software.
